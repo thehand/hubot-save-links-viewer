@@ -1,0 +1,13 @@
+.md-toolbar-tools h1 {
+    font-size: inherit;
+    font-weight: inherit;
+    margin: inherit;
+}
+
+md-card-footer {
+    .room,
+    .user, 
+    .date {
+        font-weight: 600;
+    }
+}
