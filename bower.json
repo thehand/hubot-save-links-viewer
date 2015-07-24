@@ -1,0 +1,21 @@
+{
+  "name": "hubot-save-links-viewer",
+  "version": "0.0.1",
+  "homepage": "https://github.com/thehand/hubot-save-links-viewer",
+  "authors": [
+    "Francesco Salamone <salamone.francesco@gmail.com>"
+  ],
+  "description": "A simple frontend to hubot-save-links",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.4.3",
+    "jquery": "~2.1.4"
+  }
+}
